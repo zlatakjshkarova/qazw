@@ -1,0 +1,245 @@
+* {
+    box-sizing: border-box;
+}
+
+body,
+html {
+    height: 100%;
+}
+
+.nav {
+    margin: 127px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.wrapper {
+
+    min-height: 100%;
+
+
+}
+
+.content {
+    max-width: 1500px;
+    margin: 0 auto;
+}
+
+.title_nav {
+    column-gap: 80px;
+
+
+}
+
+.link_nav {
+    line-height: 20px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #c3b9b5;
+    text-decoration: none;
+}
+
+.logo_qaz {
+
+    width: 3566px;
+}
+
+
+.nav_item,
+.nav_link {
+    list-style: none;
+}
+
+
+
+.block {
+    background-color: lightsalmon;
+    color: aliceblue;
+    font-size: 45px;
+    height: 45px;
+    width: 123px;
+
+}
+
+.rbtn {
+    display: flex;
+    align-items: end;
+    justify-content: flex-start;
+}
+
+.wer {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.wsx {
+    color: rgba(0, 0, 0, 0.6);
+    text-shadow: 2px 2px 3px rgba(255, 255, 255, 0.1);
+    font-size: 26px;
+    margin-left: 6%;
+    text-align: left;
+    text-decoration: none;
+
+    padding-top: 16px;
+    display: inline-block;
+    margin: 100;
+}
+
+
+
+
+.logo_qaz {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: antiquewhite;
+}
+
+
+.qaz {
+
+    font-size: 76px;
+    line-height: 78px;
+}
+
+.btn {
+    font-size: 20px;
+    padding: 29px 78px;
+    border-radius: 34px 45px;
+    box-shadow: 0px 4px 20px;
+    background-color: coral;
+    color: black;
+
+}
+
+.btn-qwe {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.object {
+    display: flex;
+    justify-content: space-around;
+    align-items: first baseline;
+
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+.vand {
+
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.title-block {
+    font-size: 100px;
+    margin: 10%;
+}
+
+.btn {
+    box-shadow: 0px 4px 20px #FFC59E;
+    background-color: #FFC59E;
+    box-shadow: 0px 4px 20px #FFC59E;
+    border: none;
+    text-transform: uppercase;
+    border-radius: 33.5px;
+    line-height: 20px;
+    padding: 24px 77px;
+}
+
+.btn-qaz {
+    display: flex;
+    justify-content: space-evenly;
+    align-self: centent;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+
+.nav_item {
+    column-gap: 67px;
+
+}
+
+
+.nav_link {
+    border: 1px yellow;
+    color: darkgray;
+    column-gap: 23px;
+
+}
+
+.wrapper {
+
+    min-height: 100%;
+}
+
+.offer {
+    display: flex;
+}
+
+
+
+
+html,
+body {
+    height: 100%;
+}
+
+.object {
+    position: absolute;
+}
+
+
+
+
+
+.van {
+    width: 50%;
+
+
+    height: 768px;
+}
+
+.title-block {
+    font-size: 100px;
+    margin: 10%;
+}
+
+.btn {
+    box-shadow: 0px 4px 20px #FFC59E;
+    background-color: #FFC59E;
+    box-shadow: 0px 4px 20px #FFC59E;
+    border: none;
+    text-transform: uppercase;
+    border-radius: 33.5px;
+    line-height: 20px;
+    padding: 24px 77px;
+}
+
+.btn-qaz {
+    display: flex;
+    justify-content: space-evenly;
+    align-self: centent;
+}
